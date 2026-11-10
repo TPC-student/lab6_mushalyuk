@@ -42,12 +42,12 @@ spanning-tree mode pvst
 !
 !
 interface GigabitEthernet0/0
- ip address 192.168.19.254 255.255.255.0
+ ip address 192.168.22.254 255.255.255.0
  duplex auto
  speed auto
 !
 interface GigabitEthernet0/1
- ip address 192.168.180.254 255.255.255.0
+ ip address 192.168.210.254 255.255.255.0
  duplex auto
  speed auto
 !
